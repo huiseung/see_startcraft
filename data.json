@@ -767,7 +767,7 @@
     "replayLinks": [
       {
         "description": "주최측 해설",
-        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=1655&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       }
     ]
   },
