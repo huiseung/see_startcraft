@@ -208,7 +208,6 @@
       }
     ]
   },
-
   {
     "tournament": "라네트배&숲배 대학리그",
     "matchDate": "2024-12-15",
@@ -474,6 +473,282 @@
       {
         "description": "케이대측 해설",
         "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=18344&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 1,
+    "map": "데자뷰",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "링고",
+    "winnerRace": "Protoss",
+    "winnerBuild": "10게이트 마당넥서스 포지\n5질 서치, 공업, 드라군사업\n선아둔, 8게이트 맞추기\n질럿드라군러쉬",
+    "winnerCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "찌킹",
+    "loserRace": "Zerg",
+    "loserBuild": "11풀 12가스 11앞마당해처리\n가스100만 채취 발업\n본진 3번째 해처리, 멀티 4번째 해처리\n가스 다시채취, 히덴, 멀티 5번째 해처리\n히드라 러쉬\n레어, 챔버",
+    "loserCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=1655&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 2,
+    "map": "라데온",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "남수댕",
+    "winnerRace": "Protoss",
+    "winnerBuild": "12앞마당넥서스,12-12게이트\n9질럿 러쉬\n코어, 포지\n드라군 사업\n로보, 옵저버토리, 4게이트 맞추기",
+    "winnerCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "밍도릿",
+    "loserRace": "Zerg",
+    "loserBuild": "앞마당9투,1드론,9오버,9풀,11가스\n레어, 히덴\n마당3번째 해처리, 마당가스\n히드라발업,럴커,히드라사업,오버속업\n드랍페이크후 정면 뚫기",
+    "loserCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=2789&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 3,
+    "map": "라데온",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "림예이",
+    "winnerRace": "Zerg",
+    "winnerBuild": "12옆해처리,11풀,13마당해처리,12가스\n링발업,챔버(방1업),가스조절\n마당4번째 해처리, 멀티 5해처리, 스포어\n히덴, 레어\n멀티6번째 해처리, 챔버(링공업), 챔버(히드라공업)\n퀸즈\n하이브\n럴커수비, 업저글링 난전 체제",
+    "winnerCoaches": [
+      "철벽김민철",
+      "박재혁;;;"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "김뽀뇨",
+    "loserRace": "Protoss",
+    "loserBuild": "9게이트,마당넥서스,포지,코어\n공1업,스타게이트,아둔\n로보,탬카\n3멀티 운영",
+    "loserCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=3861&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 4,
+    "map": "폴리포이드",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "내가먼지",
+    "winnerRace": "Terran",
+    "winnerBuild": "큰입구 막기 8서플,10배럭,10서치\n18마당커멘드\n21가스,선엔베(공1업),아카\n4배럭맞추기\n팩토리2개,마당가스\n마베탱 러쉬",
+    "winnerCoaches": [
+      "JyJ정영재",
+      "BishOp정민기",
+      "#민찬기"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "2라니",
+    "loserRace": "Zerg",
+    "loserBuild": "12마당해처리,11서치,11풀,13가스\n레어,히덴,마당가스\n럴커\n5럴커,링 러쉬\n마당3번째 해처리\n11럴커 러쉬",
+    "loserCoaches": [
+      "철벽김민철",
+      "박재혁;;;"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=5254&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 5,
+    "map": "폴리포이드",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "늑대채린",
+    "winnerRace": "Zerg",
+    "winnerBuild": "11마당해처리,10풀,10가스\n발업링,레어\n마당3번째 해처리,스파이어\n5뮤탈,타스타팅 마당 4,5번째 해처리\n히덴, 2챔버\n성큰으로 수비하면서 드론 째기\n퀸즈, 하이브\n타스타팅본진 확장, 울트라\n울트라&링 체제",
+    "winnerCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "빵리나",
+    "loserRace": "Protoss",
+    "loserBuild": "8파일런,앞마당9-10게이트\n마당넥서스,포지,가스,코어\n공1업 드라군 러쉬\n아둔\n3,4멀티 운영",
+    "loserCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=6252&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 6,
+    "map": "데자뷰",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "슬돌이",
+    "winnerRace": "Protoss",
+    "winnerBuild": "12마당넥서스,대각서치-원서치실패\n게이트-가스-게이트-코어\n2질2드라, 2질럿쌩까기\n로보,아둔,옵저버토리,탬카\n3멀티\n노셔틀-하이템플러 질럿 드라군 체제",
+    "winnerCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "모꿀몬",
+    "loserRace": "Terran",
+    "loserBuild": "11배럭,n16마당커멘드,노서치,4마린까지 찍기\n팩토리-엔벤-팩토리\n날리는3커맨드,아머리.아카",
+    "loserCoaches": [
+      "FlaSh.이영호",
+      "TY전태양"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=8250&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 7,
+    "map": "도미네이터",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "갓지니",
+    "winnerRace": "Protoss",
+    "winnerBuild": "11앞마당넥서스,11포지,원서치 성공\n게이트-가스-코어\n아둔,로보,템플러아카이브\n게이트늘리면서\n다크드랍\n3멀티 없이 160채우기(하템4기-나머지 아칸)\n3멀티, 200전투",
+    "winnerCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "짱다",
+    "loserRace": "Protoss",
+    "loserBuild": "11포지,13앞마당넥서스,두번째서치 성공\n게이트-가스-코어\n로보,드라군사업,옵저버토리\n게이트늘리면서\n옵저버,드라군 체제\n3멀티 먹으면서 160채우기(노하템-올아칸)\n타스타팅 마당, 200전투",
+    "loserCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=9447&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 8,
+    "map": "도미네이터",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "짱다",
+    "winnerRace": "Protoss",
+    "winnerBuild": "11포지,13앞마당넥서스,두번째서치 성공\n게이트-가스-코어\n로보,드라군사업,옵저버토리\n게이트늘리면서\n옵저버,드라군 체제\n3멀티 먹으면서 160채우기(노하템-올아칸) 러쉬\n미네랄 멀티 먹으면서 200채우기(하템 소수) 러쉬",
+    "winnerCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "갓지니",
+    "loserRace": "Protoss",
+    "loserBuild": "11앞마당넥서스,11포지,원서치 성공\n게이트-가스-코어\n아둔,로보,템플러아카이브\n게이트늘리면서\n다크드랍\n3멀티 없이 160채우기(하템4기-나머지 아칸)\n3멀티 먹으면서 200채우기",
+    "loserCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=11035&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 9,
+    "map": "도미네이터",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "찌킹",
+    "winnerRace": "Zerg",
+    "winnerBuild": "11풀 12가스 11마당해처리\n가스 100채취 링발업\n본진 3번째 해처리, 멀티 4번째 해처리, 가스 채취\n히덴, 멀티5번째 해처리,히드라 모으기\n레어,챔버\n스파이어",
+    "winnerCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "링고",
+    "loserRace": "Protoss",
+    "loserBuild": "포지 더블\n게이트-가스-코어-아둔\n게이트 맞추기\n로보,옵저버토리\n인구수100쯤 러쉬",
+    "loserCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=13339&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       }
     ]
   }
