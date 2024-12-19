@@ -1,0 +1,755 @@
+[
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-19",
+    "round": "4강 JSA vs 이노레이블",
+    "setOrder": 1,
+    "map": "폴리포이드",
+    "winnerTeam": "JSA",
+    "winnerPlayer": "혜로로",
+    "winnerRace": "Zerg",
+    "winnerCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "winnerBuild": "9오버풀 앞마당해처리 4링 가스 멀티3해처리\n레어 히덴 마당가스\n오버 속업 정면 압박\n드랍 페이크 & 드론째기, 5해처리 맞추기, 챔버\n상대 정면 럴커 성큰 쪼이기",
+    "loserTeam": "이노레이블",
+    "loserPlayer": "애공",
+    "loserRace": "Protoss",
+    "loserCoaches": [
+      "전제민",
+      "Paralyze경두"
+    ],
+    "loserBuild": "9게이트 2질럿 마당넥서스\n코어 포지 스타게이트\n아둔 템카 2로보틱스, 서포트베이",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-19",
+    "round": "4강 JSA vs 이노레이블",
+    "setOrder": 2,
+    "map": "데자뷰",
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "나린",
+    "winnerRace": "Zerg",
+    "winnerCoaches": [
+      "guldo김성대",
+      "투신박성준♡"
+    ],
+    "winnerBuild": "12앞마당 해처리, 11센터서치\n본진 3해처리, 히덴\n발사업 히드라2부대 뚫기\n히럴 운영",
+    "loserTeam": "JSA",
+    "loserPlayer": "연수",
+    "loserRace": "Terran",
+    "loserCoaches": [
+      "4s.사테",
+      "잉어킹구성훈"
+    ],
+    "loserBuild": "8배럭\n마당 커멘트\n선엔베 아카 4배럭 맞추기\n3스타 드랍쉽, 배틀크루저",
+    "replayLinks": [
+      {
+        "description": "공식 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-19",
+    "round": "4강 JSA vs 이노레이블",
+    "setOrder": 3,
+    "map": "폴리포이드",
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "설둥이",
+    "winnerRace": "Protoss",
+    "winnerCoaches": [
+      "전제민",
+      "Paralyze경두"
+    ],
+    "winnerBuild": "포지 더블넥서스\n선가스 게이트\n가스 100만 채취 공1업\n3게이트맞춰 공1업 질럿1부대 러쉬\n코어 가스 채취\n6게이트맞춰 11업 질럿드라군 러쉬",
+    "loserTeam": "JSA",
+    "loserPlayer": "아라미",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "loserBuild": "9오버풀\n옆구리 해처리\n마당 해처리\n레어 히덴\n상대 러쉬막기 위해 5해처리 성큰, 저글링, 뮤탈",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-19",
+    "round": "4강 JSA vs 이노레이블",
+    "setOrder": 4,
+    "map": "데자뷰",
+    "winnerTeam": "JSA",
+    "winnerPlayer": "카히리",
+    "winnerRace": "Zerg",
+    "winnerCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "winnerBuild": "11시 스타트 정서치-원서치 실패\n9풀 가스트릭\n6링 앞마당해처리\n노가스 4해처리 맞추고 가스\n레어 스파이어 히덴\n뮤탈 1부대 럴커 수비후 하이브",
+    "loserTeam": "이노레이블",
+    "loserPlayer": "야리",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "guldo김성대",
+      "투신박성준♡"
+    ],
+    "loserBuild": "1시 스타트 정서치-원서치 성공\n본진 9투9풀9가스\n100만 가스캐고 빼기 발업링\n앞마당 히덴",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-19",
+    "round": "4강 JSA vs 이노레이블",
+    "setOrder": 5,
+    "map": "도미네이터",
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "나예리",
+    "winnerRace": "Terran",
+    "winnerCoaches": [
+      "RoyaL김지성",
+      "Dove.송호영"
+    ],
+    "winnerBuild": "센터 6배럭 4마린 모아 뛰기 벙커링",
+    "loserTeam": "JSA",
+    "loserPlayer": "공다츠",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "loserBuild": "12마당 해처리 12풀 12가스",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-19",
+    "round": "4강 JSA vs 이노레이블",
+    "setOrder": 6,
+    "map": "도미네이터",
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "김채이",
+    "winnerRace": "Protoss",
+    "winnerCoaches": [
+      "전제민",
+      "Paralyze경두"
+    ],
+    "winnerBuild": "본진99게이트\n9질럿까지 꾸준히 찍기\n본진 스타게이트 아둔 템플러아카이브",
+    "loserTeam": "JSA",
+    "loserPlayer": "귀요민정",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "loserBuild": "앞마당9투\n링 한부대 찍고 타스타팅 앞마당(취소)\n마당에3해처리 히덴\n노레어 5해처리",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-19",
+    "round": "4강 JSA vs 이노레이블",
+    "setOrder": 7,
+    "map": "라데온",
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "비타밍",
+    "winnerRace": "Terran",
+    "winnerCoaches": [
+      "RoyaL김지성",
+      "Dove.송호영"
+    ],
+    "winnerBuild": "9배럭\n마린 생산 안 멈추고 21마당커멘드\n선아카 엔베 2배럭맞추고 팩토리\n시즈모드, 3스타포트 레이스\n4배럭맞추고 사이언스퍼실리티\n레이스 흔들기 이후 마메탱배 러쉬",
+    "loserTeam": "JSA",
+    "loserPlayer": "먼진",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "loserBuild": "11풀 12앞마당 해처리 11가스 레어\n히덴 마당가스 럴커드랍\n울트라",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-15",
+    "round": "4강 츠캄몬스터즈 vs 케이대",
+    "setOrder": 1,
+    "map": "도미네이터",
+    "winnerTeam": "츠캄몬스타즈",
+    "winnerPlayer": "Fresh토마토",
+    "winnerRace": "Protoss",
+    "winnerCoaches": [
+      "BJ.정윤종",
+      "이경민+_+.",
+      "수입뿌드"
+    ],
+    "winnerBuild": "11넥 11포지\n선아둔",
+    "loserTeam": "케이대",
+    "loserPlayer": "늑대채린",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "loserBuild": "9드론 발업링\n2해처리 히드라",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=5465&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 2",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145255987?change_second=4356&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 3",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=6860&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-15",
+    "round": "4강 츠캄몬스터즈 vs 케이대",
+    "setOrder": 2,
+    "map": "폴리포이드",
+    "winnerTeam": "츠캄몬스타즈",
+    "winnerPlayer": "졈니",
+    "winnerRace": "Protoss",
+    "winnerCoaches": [
+      "BJ.정윤종",
+      "이경민+_+.",
+      "수입뿌드"
+    ],
+    "winnerBuild": "11넥 11포지\n선아둔\n8게이트 맞추기\n럴커 쪼이기 전 러쉬\n반땅 운영",
+    "loserTeam": "케이대",
+    "loserPlayer": "찌킹",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "loserBuild": "12 옆 해처리\n발업링\n3해처리 히드라\n5해처리 럴커 쪼이기\n반땅 운영",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=6920&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 2",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145255987?change_second=5806&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 3",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=8308&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-15",
+    "round": "4강 츠캄몬스터즈 vs 케이대",
+    "setOrder": 3,
+    "map": "도미네이터",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "갓지니",
+    "winnerRace": "Protoss",
+    "winnerCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "winnerBuild": "1012게이트\n3질 마당 넥서스\n3넥서스 하이템플러 조합",
+    "loserTeam": "츠캄몬스터즈",
+    "loserPlayer": "모리_",
+    "loserRace": "Terran",
+    "loserCoaches": [
+      "몽군"
+    ],
+    "loserBuild": "9서플 11배럭\n원서치 당하고 가스\n마당 벙커 늦어 본진 벙커\n몰래 스타포트 21업 7팩",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=9697&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 2",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145255987?change_second=8577&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 3",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=11090&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-15",
+    "round": "4강 츠캄몬스터즈 vs 케이대",
+    "setOrder": 4,
+    "map": "폴리포이드",
+    "winnerTeam": "츠캄몬스타즈",
+    "winnerPlayer": "디임",
+    "winnerRace": "Protoss",
+    "winnerCoaches": [
+      "BJ.정윤종",
+      "이경민+_+.",
+      "수입뿌드"
+    ],
+    "winnerBuild": "11넥 2게이트\n아둔\n포지\n로보틱스 퍼실리티\n템플러 아카이브\n옵저버토리\n다크템플러\n본진 마당 캐논\n8게이트 맞추기\n하이템플러4기",
+    "loserTeam": "케이대",
+    "loserPlayer": "슬돌이",
+    "loserRace": "Protoss",
+    "loserCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "loserBuild": "12넥 2게이트\n로보틱스 퍼실리티\n드라군 사업\n옵저버토리\n로보틱스 서포트베이\n셔틀-옵저버\n6게이트 맞추기\n2리버 뚫기",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=11408&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 2",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145255987?change_second=10291&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 3",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=12775&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-15",
+    "round": "4강 츠캄몬스터즈 vs 케이대",
+    "setOrder": 5,
+    "map": "라데온",
+    "winnerTeam": "츠캄몬스타즈",
+    "winnerPlayer": "임조이1111",
+    "winnerRace": "Zerg",
+    "winnerCoaches": [
+      "Calm_김윤환",
+      "DS★준오"
+    ],
+    "winnerBuild": "12 앞 해처리, 11풀 12가스\n2해처리 레어, 히드라덴\n2성큰\n스파이어\n뮤탈 소수 찌르기\n6해처리 히드라\n양 스타팅 확장, 울트라",
+    "loserTeam": "케이대",
+    "loserPlayer": "내가먼지",
+    "loserRace": "Terran",
+    "loserCoaches": [
+      "JyJ정영재",
+      "BishOp정민기",
+      "#민찬기"
+    ],
+    "loserBuild": "8서플 10배럭 큰입구 막기\n본진 12배럭\n6마린 찌르기\n앞마당 커멘드\n아카, 엔베, 팩토리, 아머리\n공1업 5팩 타이밍\n11업 재진출\n업테란",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=12947&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 2",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145255987?change_second=11825&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 3",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=14332&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-15",
+    "round": "4강 츠캄몬스터즈 vs 케이대",
+    "setOrder": 6,
+    "map": "데자뷰",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "뽀뇨",
+    "winnerRace": "Protoss",
+    "winnerCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "winnerBuild": "선포지, 게이트\n앞마당 없이 코어\n앞마당 넥서스, 스타게이트\n로보틱스 퍼실리티, 아둔, 템플러 아카이브, 다크템플러 드랍\n3멀티 12게이트 맞추기\n4멀티 지으면서 200 뚫기",
+    "loserTeam": "츠캄몬스터즈",
+    "loserPlayer": "앵지",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "Calm_김윤환",
+      "DS★준오"
+    ],
+    "loserBuild": "12풀 12가스 발업링\n레어, 히덴\n3해처리 맞추기, 마당 가스\n2럴커 포지 깨기\n타스타팅 해처리 3개\n성큰 럴커 버티며 하이브\n저글링,히드라,럴커,디파일러 조합",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=15165&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 2",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145255987?change_second=14056&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 3",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=16559&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-15",
+    "round": "4강 츠캄몬스터즈 vs 케이대",
+    "setOrder": 7,
+    "map": "데자뷰",
+    "winnerTeam": "츠캄몬스터즈",
+    "winnerPlayer": "치리♡",
+    "winnerRace": "Zerg",
+    "winnerCoaches": [
+      "Calm_김윤환",
+      "DS★준오"
+    ],
+    "winnerBuild": "12풀, 12가스(2기 채취), 11 마당 해처리\n레어\n스파이어\n3해처리 맞추기\n뮤탈 소수, 공중 방업, 가스 3기 채취\n3멀티에 5해처리 맞추기, 각 멀티 드론 미네랄 1대1, 3가스 캐기\n챔버 저글링 공업, 2스파이어 공중공업\n",
+    "loserTeam": "케이대",
+    "loserPlayer": "밍도릿",
+    "loserRace": "Zerg",
+    "loserCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "loserBuild": "9드론, 노가스 3해처리\n챔버, 스포어\n히덴\n5해처리 맞추기, 레어\n",
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145253873?change_second=16962&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 2",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145255987?change_second=15838&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "Replay 3",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145258567?change_second=18344&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 1,
+    "map": "데자뷰",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "링고",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "찌킹",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=1655&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 2,
+    "map": "라데온",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "남수댕",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "밍도릿",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=2789&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 3,
+    "map": "라데온",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "림예이",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "철벽김민철",
+      "박재혁;;;"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "김뽀뇨",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=3861&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 4,
+    "map": "폴리포이드",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "내가먼지",
+    "winnerRace": "Terran",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "JyJ정영재",
+      "BishOp정민기",
+      "#민찬기"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "2라니",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      "철벽김민철",
+      "박재혁;;;"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=5254&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 5,
+    "map": "폴리포이드",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "늑대채린",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "빵리나",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=6252&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 6,
+    "map": "데자뷰",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "슬돌이",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "모꿀몬",
+    "loserRace": "Terran",
+    "loserBuild": "",
+    "loserCoaches": [
+      "FlaSh.이영호",
+      "TY전태양"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=8250&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 7,
+    "map": "도미네이터",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "갓지니",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "짱다",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=9447&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 8,
+    "map": "도미네이터",
+    "winnerTeam": "씨나인",
+    "winnerPlayer": "짱다",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "loserTeam": "케이대",
+    "loserPlayer": "갓지니",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      "Stork송병구",
+      "snow장윤철",
+      "긍정갑_홍덕",
+      "프발"
+    ],
+    "replayLinks": [
+      {
+        "description": "Replay 1",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=11035&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-11",
+    "round": "8강 케이대 VS 씨나인",
+    "setOrder": 9,
+    "map": "도미네이터",
+    "winnerTeam": "케이대",
+    "winnerPlayer": "찌킹",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "JD_이제동",
+      "아트유김병수"
+    ],
+    "loserTeam": "씨나인",
+    "loserPlayer": "링고",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      "Bisu김택용",
+      "왜냐맨장민철",
+      "JuM.윤중2"
+    ],
+    "replayLinks": [
+      {
+        "description": "공식 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=13339&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  }
+]
