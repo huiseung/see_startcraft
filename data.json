@@ -5,6 +5,7 @@
     "round": "4강 JSA vs 이노레이블",
     "setOrder": 1,
     "map": "폴리포이드",
+    "tier": 2,
     "winnerTeam": "JSA",
     "winnerPlayer": "혜로로",
     "winnerRace": "Zerg",
@@ -35,6 +36,7 @@
     "round": "4강 JSA vs 이노레이블",
     "setOrder": 2,
     "map": "데자뷰",
+    "tier": 6,
     "winnerTeam": "이노레이블",
     "winnerPlayer": "나린",
     "winnerRace": "Zerg",
@@ -64,6 +66,7 @@
     "round": "4강 JSA vs 이노레이블",
     "setOrder": 3,
     "map": "폴리포이드",
+    "tier": 5,
     "winnerTeam": "이노레이블",
     "winnerPlayer": "설둥이",
     "winnerRace": "Protoss",
@@ -94,6 +97,7 @@
     "round": "4강 JSA vs 이노레이블",
     "setOrder": 4,
     "map": "데자뷰",
+    "tier": 3,
     "winnerTeam": "JSA",
     "winnerPlayer": "카히리",
     "winnerRace": "Zerg",
@@ -124,6 +128,7 @@
     "round": "4강 JSA vs 이노레이블",
     "setOrder": 5,
     "map": "도미네이터",
+    "tier": 4,
     "winnerTeam": "이노레이블",
     "winnerPlayer": "나예리",
     "winnerRace": "Terran",
@@ -154,6 +159,7 @@
     "round": "4강 JSA vs 이노레이블",
     "setOrder": 6,
     "map": "도미네이터",
+    "tier": 7,
     "winnerTeam": "이노레이블",
     "winnerPlayer": "김채이",
     "winnerRace": "Protoss",
@@ -184,6 +190,7 @@
     "round": "4강 JSA vs 이노레이블",
     "setOrder": 7,
     "map": "라데온",
+    "tier": 8,
     "winnerTeam": "이노레이블",
     "winnerPlayer": "비타밍",
     "winnerRace": "Terran",
@@ -214,6 +221,7 @@
     "round": "4강 츠캄몬스터즈 vs 케이대",
     "setOrder": 1,
     "map": "도미네이터",
+    "tier": 4,
     "winnerTeam": "츠캄몬스타즈",
     "winnerPlayer": "Fresh토마토",
     "winnerRace": "Protoss",
@@ -252,6 +260,7 @@
     "round": "4강 츠캄몬스터즈 vs 케이대",
     "setOrder": 2,
     "map": "폴리포이드",
+    "tier": 5,
     "winnerTeam": "츠캄몬스타즈",
     "winnerPlayer": "졈니",
     "winnerRace": "Protoss",
@@ -290,6 +299,7 @@
     "round": "4강 츠캄몬스터즈 vs 케이대",
     "setOrder": 3,
     "map": "도미네이터",
+    "tier": 7,
     "winnerTeam": "케이대",
     "winnerPlayer": "갓지니",
     "winnerRace": "Protoss",
@@ -328,6 +338,7 @@
     "round": "4강 츠캄몬스터즈 vs 케이대",
     "setOrder": 4,
     "map": "폴리포이드",
+    "tier": 3,
     "winnerTeam": "츠캄몬스타즈",
     "winnerPlayer": "디임",
     "winnerRace": "Protoss",
@@ -368,6 +379,7 @@
     "round": "4강 츠캄몬스터즈 vs 케이대",
     "setOrder": 5,
     "map": "라데온",
+    "tier": 8,
     "winnerTeam": "츠캄몬스타즈",
     "winnerPlayer": "임조이1111",
     "winnerRace": "Zerg",
@@ -406,6 +418,7 @@
     "round": "4강 츠캄몬스터즈 vs 케이대",
     "setOrder": 6,
     "map": "데자뷰",
+    "tier": 4,
     "winnerTeam": "케이대",
     "winnerPlayer": "뽀뇨",
     "winnerRace": "Protoss",
@@ -445,6 +458,7 @@
     "round": "4강 츠캄몬스터즈 vs 케이대",
     "setOrder": 7,
     "map": "데자뷰",
+    "tier": 7,
     "winnerTeam": "츠캄몬스터즈",
     "winnerPlayer": "치리♡",
     "winnerRace": "Zerg",
@@ -478,10 +492,261 @@
   },
   {
     "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노레이블",
+    "setOrder": 1,
+    "map": "폴리포이드",
+    "tier": 3,
+    "winnerTeam": "장독대",
+    "winnerPlayer": "오리",
+    "winnerRace": "Protoss",
+    "winnerBuild": "10-10게이트\n마당넥서스,포지,가스,코어\n스타게이트",
+    "winnerCoaches": [
+      "free윤용태",
+      "구라미스",
+      "미동미동"
+    ],
+    "loserTeam": "이노레이블",
+    "loserPlayer": "야리",
+    "loserRace": "Zerg",
+    "loserBuild": "12옆해처리,11서치,11풀,10가스\n링발업,레어\n스파이어, 5뮤탈\n마당에 3번째 해처리, 히덴",
+    "loserCoaches": [
+      "guldo김성대",
+      "투신박성준♡"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=10967&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노레이블",
+    "setOrder": 2,
+    "map": "라데온",
+    "tier": 6,
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "나린",
+    "winnerRace": "Zerg",
+    "winnerBuild": "12앞마당해처리11서치11풀10가스\n레어,3:00성큰,링발업\n스파이어,마당에 3번째 해처리,히덴\n5뮤탈,저글링,럴커 러쉬",
+    "winnerCoaches": [
+      "guldo김성대",
+      "투신박성준♡"
+    ],
+    "loserTeam": "장독대",
+    "loserPlayer": "YouE♥",
+    "loserRace": "Terran",
+    "loserBuild": "11배럭,11가스\n팩토리(벌쳐사업),스타포트,사이언스퍼실리티,엔베\n속벌찌르기\n이레디에이트,사이언스배슬\n4배럭맞추기,아카데미",
+    "loserCoaches": [
+      "높이의성균",
+      "불멸의샤순신",
+      "기뉴다",
+      "BJ초난강",
+      "IriS★박영덕"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=12374&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노레이블",
+    "setOrder": 3,
+    "map": "폴리포이드",
+    "tier": 6,
+    "winnerTeam": "장독대",
+    "winnerPlayer": "키링",
+    "winnerRace": "Protoss",
+    "winnerBuild": "12마당넥서스,게이트-가스-코어-게이트\n로보,옵저버토리,아둔,탬플러아카이브\n3멀티",
+    "winnerCoaches": [
+      "free윤용태",
+      "구라미스",
+      "미동미동"
+    ],
+    "loserTeam": "이노레이블",
+    "loserPlayer": "려원",
+    "loserRace": "Terran",
+    "loserBuild": "언덕 입구 막기 11배럭12가스13서치(SCV2기 서치)\n팩토리(마인업)\n타스타팅 몰래 멀티\n3마린1탱1벌쳐 찌르기(마인 박고 빼기),마당커멘드,엔베\n팩토리,아머리,아카데미",
+    "loserCoaches": [
+      "RoyaL김지성",
+      "Dove.송호영"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=13457&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노대레이블블",
+    "setOrder": 4,
+    "map": "데자뷰",
+    "tier": 4,
+    "winnerTeam": "장독대",
+    "winnerPlayer": "연두",
+    "winnerRace": "Protoss",
+    "winnerBuild": "12앞마당넥서스,센터서치,게이트-게이트-가스-코어\n2질럿 찌르기\n로보,옵저버토리,아둔,템카,스타게이트\n8게이트 맞추기\n3멀티,아비터트라이비널\n스테이시필드 170 뚫기",
+    "winnerCoaches": [
+      "free윤용태",
+      "구라미스",
+      "미동미동"
+    ],
+    "loserTeam": "이노레이블",
+    "loserPlayer": "나예리",
+    "loserRace": "Terran",
+    "loserBuild": "입구막기,팩토리(마인업),앞마당커멘드\n아머리.팩토리,엔베\n아카,스타포트\n5팩토리 맞추기, 사이언스퍼실리티,아머리\n7팩토리 맞추기, 3커멘드",
+    "loserCoaches": [
+      "RoyaL김지성",
+      "Dove.송호영"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=15680&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노레이블",
+    "setOrder": 5,
+    "map": "도미네이터",
+    "tier": 4,
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "구보라",
+    "winnerRace": "Protoss",
+    "winnerBuild": "11앞마당넥서스,11포지\n게이트-가스-코어\n공1업,아둔\n4게이트맞추기\n6:00 공1업-발업질럿 러쉬\n템플러아카이브\n2아칸 질럿 러쉬\n저그 4멀티 안주기 반땅운영",
+    "winnerCoaches": [
+      "전제민",
+      "Paralyze경두"
+    ],
+    "loserTeam": "장독대",
+    "loserPlayer": "라미",
+    "loserRace": "Zerg",
+    "loserBuild": "9오버풀,마당해처리\n멀티에 3번쨰 해처리, 가스\n레어\n스파이어\n5해처리맞추기\n11뮤탈\n하이브 링,럴커,디파 운영",
+    "loserCoaches": [
+      "태풍이영한",
+      "건욱이"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=16967&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노레이블블",
+    "setOrder": 6,
+    "map": "도미네이터",
+    "tier": 7,
+    "winnerTeam": "장독대",
+    "winnerPlayer": "김설",
+    "winnerRace": "Zerg",
+    "winnerBuild": "12마당해처리,11풀,10가스\n본진 3번째 해처리",
+    "winnerCoaches": [
+      "태풍이영한",
+      "건욱이"
+    ],
+    "loserTeam": "이노레이블",
+    "loserPlayer": "김채이",
+    "loserRace": "Protoss",
+    "loserBuild": "본진 게이트\n상대 본진 2게이트",
+    "loserCoaches": [
+      "전제민",
+      "Paralyze경두"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=19026&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노레이블",
+    "setOrder": 7,
+    "map": "폴리포이드",
+    "tier": 8,
+    "winnerTeam": "이노레이블",
+    "winnerPlayer": "비타밍",
+    "winnerRace": "Terran",
+    "winnerBuild": "입구막기, 11배럭 12가스,14서치\n팩토리(마인업)\n타스타팅 몰래 멀티, 앞마당 커멘드\n상대 입구 마인 조이기\n엔베\n텡크&벌처 체제\n몰래 멀티에 1팩토리 올려 탱크 찍기\n2아머리(공중공업,공중방업), 3스타포트\n사이언스퍼실리티\n타스타팅쪽 확장-가스만 파기\n배틀&발키리&탱크 체제",
+    "winnerCoaches": [
+      "RoyaL김지성",
+      "Dove.송호영"
+    ],
+    "loserTeam": "장독대",
+    "loserPlayer": "메옹",
+    "loserRace": "Terran",
+    "loserBuild": "입구막기, 11배럭 12가스,13서치(SCV-2기서치)\n2팩토리,아머리\n마당 커멘드\n탱크&골리앗&벌처 체제\n5팩토리 맞추기\n3스타포트 레이스 모으기",
+    "loserCoaches": [
+      "높이의성균",
+      "불멸의샤순신",
+      "기뉴다",
+      "BJ초난강",
+      "IriS★박영덕"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=20005&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-12",
+    "round": "8강 장독대 vs 이노레이블",
+    "setOrder": 8,
+    "map": "라데온",
+    "tier": 5,
+    "winnerTeam": "장독대",
+    "winnerPlayer": "최도랑",
+    "winnerRace": "Protoss",
+    "winnerBuild": "12마당넥서스\n게이트-포지-가스-코어\n3게이트 맞추기,드라군사업\n로보-옵저버토리-아둔",
+    "winnerCoaches": [
+      "free윤용태",
+      "구라미스",
+      "미동미동"
+    ],
+    "loserTeam": "이노레이블",
+    "loserPlayer": "설둥이",
+    "loserRace": "Protoss",
+    "loserBuild": "10-12게이트\n몰래멀티 넥서스-가스-코어\n드라군사업,로보-옵저버토리-서포트베이\n4게이트맞추기\n질럿,드라군,셔틀-2리버 뚫기",
+    "loserCoaches": [
+      "전제민",
+      "Paralyze경두"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144962501?change_second=21547&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
     "matchDate": "2024-12-11",
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 1,
     "map": "데자뷰",
+    "tier": 5,
     "winnerTeam": "씨나인",
     "winnerPlayer": "링고",
     "winnerRace": "Protoss",
@@ -502,7 +767,7 @@
     "replayLinks": [
       {
         "description": "주최측 해설",
-        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=1655&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       }
     ]
   },
@@ -512,6 +777,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 2,
     "map": "라데온",
+    "tier": 7,
     "winnerTeam": "씨나인",
     "winnerPlayer": "남수댕",
     "winnerRace": "Protoss",
@@ -542,6 +808,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 3,
     "map": "라데온",
+    "tier": 4,
     "winnerTeam": "씨나인",
     "winnerPlayer": "림예이",
     "winnerRace": "Zerg",
@@ -573,6 +840,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 4,
     "map": "폴리포이드",
+    "tier": 7,
     "winnerTeam": "케이대",
     "winnerPlayer": "내가먼지",
     "winnerRace": "Terran",
@@ -603,6 +871,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 5,
     "map": "폴리포이드",
+    "tier": 4,
     "winnerTeam": "케이대",
     "winnerPlayer": "늑대채린",
     "winnerRace": "Zerg",
@@ -633,6 +902,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 6,
     "map": "데자뷰",
+    "tier": 3,
     "winnerTeam": "케이대",
     "winnerPlayer": "슬돌이",
     "winnerRace": "Protoss",
@@ -664,6 +934,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 7,
     "map": "도미네이터",
+    "tier": 7,
     "winnerTeam": "케이대",
     "winnerPlayer": "갓지니",
     "winnerRace": "Protoss",
@@ -696,6 +967,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 8,
     "map": "도미네이터",
+    "tier": 7,
     "winnerTeam": "씨나인",
     "winnerPlayer": "짱다",
     "winnerRace": "Protoss",
@@ -728,6 +1000,7 @@
     "round": "8강 케이대 VS 씨나인",
     "setOrder": 9,
     "map": "도미네이터",
+    "tier": 5,
     "winnerTeam": "케이대",
     "winnerPlayer": "찌킹",
     "winnerRace": "Zerg",
