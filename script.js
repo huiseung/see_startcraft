@@ -37,6 +37,7 @@ fetch('data.json')
         matchDiv.innerHTML = `
           <h2>${match.tournament} _ ${match.round} _ ${match.matchDate}</h2>
           <p><strong>Set:</strong> ${match.setOrder} | <strong>Map:</strong> ${match.map}</p>
+          <p><strong>Tier:</strong> ${match.tier}</p>
           <h3>Winner: ${match.winnerTeam} _ ${match.winnerPlayer} (${match.winnerRace})</h3>
           <p><strong>Coaches(asc):</strong> ${sortCoaches(match.winnerCoaches).join(', ')}</p>
           <p><strong>Build:</strong><br>${match.winnerBuild.replace(/\n/g, '<br>')}</p>
