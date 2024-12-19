@@ -38,12 +38,19 @@ fetch('data.json')
           <h2>${match.tournament} _ ${match.round} _ ${match.matchDate}</h2>
           <p><strong>Set:</strong> ${match.setOrder} | <strong>Map:</strong> ${match.map}</p>
           <p><strong>Tier:</strong> ${match.tier}</p>
-          <h3>Winner: ${match.winnerTeam} _ ${match.winnerPlayer} (${match.winnerRace})</h3>
-          <p><strong>Coaches(asc):</strong> ${sortCoaches(match.winnerCoaches).join(', ')}</p>
-          <p><strong>Build:</strong><br>${match.winnerBuild.replace(/\n/g, '<br>')}</p>
-          <h3>Loser: ${match.loserTeam} _ ${match.loserPlayer} (${match.loserRace})</h3>
-          <p><strong>Coaches(asc):</strong> ${sortCoaches(match.loserCoaches).join(', ')}</p>
-          <p><strong>Build:</strong><br>${match.loserBuild.replace(/\n/g, '<br>')}</p>
+          
+          <div class="winner-section">
+            <h3 class="winner">Winner: ${match.winnerTeam} _ ${match.winnerPlayer} (${match.winnerRace})</h3>
+            <p><strong>Coaches(asc):</strong> ${sortCoaches(match.winnerCoaches).join(', ')}</p>
+            <p><strong>Build:</strong><br>${match.winnerBuild.replace(/\n/g, '<br>')}</p>
+          </div>
+          
+          <div class="loser-section">
+            <h3 class="loser">Loser: ${match.loserTeam} _ ${match.loserPlayer} (${match.loserRace})</h3>
+            <p><strong>Coaches(asc):</strong> ${sortCoaches(match.loserCoaches).join(', ')}</p>
+            <p><strong>Build:</strong><br>${match.loserBuild.replace(/\n/g, '<br>')}</p>
+          </div>
+          
           <h4>Replay Links:</h4>
           ${match.replayLinks.map(link => `
             <div>
