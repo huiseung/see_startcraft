@@ -386,7 +386,7 @@
     "loserPlayer": "모리_",
     "loserRace": "Terran",
     "loserCoaches": [
-      "몽군"
+      "스타급몽군"
     ],
     "loserBuild": "9서플 11배럭\n원서치 당하고 가스\n마당 벙커 늦어 본진 벙커\n몰래 스타포트 21업 7팩",
     "replayLinks": [
@@ -1356,15 +1356,19 @@
     "winnerTeam": "츠캄몬스터즈",
     "winnerPlayer": "효짱",
     "winnerRace": "Protoss",
-    "winnerBuild": "",
+    "winnerBuild": "5서치,8서치,8파일런,가스러쉬\n포지, 상대 마당 파일런-1캐논\n마당넥서스\n게이트,가스,코어\n아둔,4게이트까지 늘리기\n템플러아카이브,스타게이트\n아비터",
     "winnerCoaches": [
+      "BJ.정윤종",
+      "이경민+_+.",
+      "수입뿌드"
     ],
     "loserTeam": "소림사",
     "loserPlayer": "수니양",
     "loserRace": "Terran",
-    "loserBuild": "",
+    "loserBuild": "9서플,10배럭,가스러쉬당함\n가스,팩토리\n아카,배럭\n마린&메딕&탱크 러쉬",
     "loserCoaches": [
-      
+      "Midas전상욱",
+      "fOrgg.박지수"
     ],
     "replayLinks": [
       {
@@ -1383,15 +1387,21 @@
     "winnerTeam": "츠캄몬스터즈",
     "winnerPlayer": "졈니",
     "winnerRace": "Protoss",
-    "winnerBuild": "",
+    "winnerBuild": "11앞마당넥서스,게이트-게이트,막서치\n가스,코어,포지,마당가스\n게이트4개까지 늘리기,로보,드라군사업",
     "winnerCoaches": [
+      "BJ.정윤종",
+      "이경민+_+.",
+      "수입뿌드"
     ],
     "loserTeam": "소림사",
     "loserPlayer": "연애인",
     "loserRace": "Protoss",
-    "loserBuild": "",
+    "loserBuild": "11앞마당넥서스,포지,막서치\n마당2캐논-게이트-가스-코어-게이트-아둔-마당가스\n로보,템플러아카이브",
     "loserCoaches": [
-      
+      "박수범.UP",
+      "nOOB김범수",
+      "토스봇",
+      "윤준석"
     ],
     "replayLinks": [
       {
@@ -1410,15 +1420,18 @@
     "winnerTeam": "소림사",
     "winnerPlayer": "선정은",
     "winnerRace": "Terran",
-    "winnerBuild": "",
+    "winnerBuild": "8서플, 11-11배럭\n7마린 러쉬",
     "winnerCoaches": [
+      "Midas전상욱",
+      "fOrgg.박지수"
     ],
     "loserTeam": "츠캄몬스터즈",
     "loserPlayer": "치리",
     "loserRace": "Zerg",
-    "loserBuild": "",
+    "loserBuild": "12옆해처리,11서치,11풀,13가스\n히덴",
     "loserCoaches": [
-      
+      "Calm_김윤환",
+      "DS★준오"
     ],
     "replayLinks": [
       {
@@ -1437,13 +1450,16 @@
     "winnerTeam": "소림사",
     "winnerPlayer": "또봉순",
     "winnerRace": "Zerg",
-    "winnerBuild": "",
+    "winnerBuild": "9드론,가스트릭,드론서치,오버원서치성공\n6링, 마당해처리\n본진 3번째 해처리\n챔버,스포어수비\n본진가스,마당가스,본진 4번째 해처리,히덴,챔버,레어\n히드라체제",
     "winnerCoaches": [
+      "깨모다",
+      "허유ㅎㅅㅎ",
+      "SsaL김상곤"
     ],
     "loserTeam": "츠캄몬스터즈",
     "loserPlayer": "세나",
     "loserRace": "Zerg",
-    "loserBuild": "",
+    "loserBuild": "12풀,12가스,11앞마당해처리\n가스100채취후 2기로 채취, 링발업\n레어,가스3기채취\n스파이어\n뮤탈&스커지 체제",
     "loserCoaches": [
       
     ],
@@ -1464,15 +1480,17 @@
     "winnerTeam": "츠캄몬스터즈",
     "winnerPlayer": "디임",
     "winnerRace": "Protoss",
-    "winnerBuild": "",
+    "winnerBuild": "10-12게이트\n11질럿까지찍으면서,마당넥서스,포지\n11질럿 러쉬\n마당캐논-가스-코어\n드라사업,4게이트까지 늘리기,로보,옵저버토리",
     "winnerCoaches": [
     ],
     "loserTeam": "소림사",
     "loserPlayer": "방실이",
     "loserRace": "Zerg",
-    "loserBuild": "",
+    "loserBuild": "9드론,11마당해처리,13가스\n레어,히덴\n럴커,마당가스\n럴커 압박,마당에3번째해처리\n드랍 페이크하면서 히드라&링&럴커 뚫기",
     "loserCoaches": [
-      
+      "깨모다",
+      "허유ㅎㅅㅎ",
+      "SsaL김상곤"
     ],
     "replayLinks": [
       {
@@ -1491,15 +1509,19 @@
     "winnerTeam": "츠캄몬스터즈",
     "winnerPlayer": "모리_",
     "winnerRace": "Terran",
-    "winnerBuild": "",
+    "winnerBuild": "전진 6배럭 마린 모아 뛰기 벙커링",
     "winnerCoaches": [
+      "스타급몽군"
     ],
     "loserTeam": "소림사",
     "loserPlayer": "진유성",
     "loserRace": "Protoss",
-    "loserBuild": "",
+    "loserBuild": "11게이트,11서치,11가스,13코어",
     "loserCoaches": [
-      
+      "박수범.UP",
+      "nOOB김범수",
+      "토스봇",
+      "윤준석"
     ],
     "replayLinks": [
       {
@@ -1518,15 +1540,19 @@
     "winnerTeam": "소림사",
     "winnerPlayer": "쥬나",
     "winnerRace": "Zerg",
-    "winnerBuild": "",
+    "winnerBuild": "13풀12가스12앞마당해처리\n레어\n스파이어,마당가스\n뮤탈소수,퀸즈,하이브\n성큰,가디언\n2챔버, 본진해처리, 멀티해처리\n울트라&아날링 체제",
     "winnerCoaches": [
+      "깨모다",
+      "허유ㅎㅅㅎ",
+      "SsaL김상곤"
     ],
     "loserTeam": "츠캄몬스터즈",
     "loserPlayer": "앵지",
     "loserRace": "Zerg",
-    "loserBuild": "",
+    "loserBuild": "12풀12앞마당해처리\n본진 3번째 해처리,가스\n챔버,히덴,스포어\n레어\n스파이어\n멀티해처리\n퀸즈,하이브\n히드라&럴커&디파일러 체제",
     "loserCoaches": [
-      
+      "Calm_김윤환",
+      "DS★준오"
     ],
     "replayLinks": [
       {
@@ -1545,15 +1571,18 @@
     "winnerTeam": "츠캄몬스터즈",
     "winnerPlayer": "치리",
     "winnerRace": "Zerg",
-    "winnerBuild": "",
+    "winnerBuild": "12옆해처리,11서치,11풀,13가스\n링발업,레어,히덴,럴커\n퀸즈,하이브,\n럴커 2기로 조이기,마당해처리,디파일러\n상대 마당 디파일러 스웜치면서, 확장, 울트라체제",
     "winnerCoaches": [
+      "Calm_김윤환",
+      "DS★준오"
     ],
     "loserTeam": "소림사",
     "loserPlayer": "선정은",
     "loserRace": "Terran",
-    "loserBuild": "",
+    "loserBuild": "8서플, 11-11배럭\n7마린 러쉬\n마당커멘드,가스\n11업 200 메카닉",
     "loserCoaches": [
-      
+      "Midas전상욱",
+      "fOrgg.박지수"
     ],
     "replayLinks": [
       {
