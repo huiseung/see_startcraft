@@ -262,16 +262,28 @@
         "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145651715?change_second=10709&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       },
       {
-        "description": "씨나인측 해설(박재혁 님)",
+        "description": "씨나인측 해설(박재혁 님외 씨나인 멤버들)",
         "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145648159?change_second=8196&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       },
       {
-        "description": "케이대측 해설(정영재 님)",
+        "description": "케이대측 해설(정영재 님외 케이대 멤버들)",
         "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145622475?change_second=9610&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       },
       {
-        "description": "YB측 해설(이예훈님)",
-        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145631055?change_second=17373&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+        "description": "YB측 해설(도재욱님)",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145640275?change_second=16481&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "YB측 해설(이재호님)",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145628479?change_second=16580&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "YB측 해설(지두두님외 YB 멤버들)",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145655007?change_second=12439&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      },
+      {
+        "description": "정선대측 해설(전태규님)",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/145635083?change_second=10827&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       }
     ]
   },
@@ -1082,6 +1094,471 @@
       {
         "description": "주최측 해설",
         "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144870609?change_second=13339&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+
+
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 1,
+    "map": "도미네이터",
+    "tier": "GOD",
+    "winnerTeam": "YB",
+    "winnerPlayer": "Light이재호",
+    "winnerRace": "Terran",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "JSA",
+    "loserPlayer": "일짱곰♥",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=5719&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 2,
+    "map": "도미네이터",
+    "tier": 7,
+    "winnerTeam": "YB",
+    "winnerPlayer": "주하랑",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "Best도재욱",
+      "고속도로호준"
+    ],
+    "loserTeam": "JSA",
+    "loserPlayer": "귀요민정",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=7643&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 3,
+    "map": "데자뷰",
+    "tier": 4,
+    "winnerTeam": "JSA",
+    "winnerPlayer": "공다츠",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "loserTeam": "YB",
+    "loserPlayer": "무찌",
+    "loserRace": "Terran",
+    "loserBuild": "",
+    "loserCoaches": [
+      "A-염보성!!",
+      "Light이재호",
+      "SS_지동원",
+      "Scan유승곤"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=9713&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 4,
+    "map": "폴리포이드",
+    "tier": 6,
+    "winnerTeam": "JSA",
+    "winnerPlayer": "연수",
+    "winnerRace": "Terran",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "4s.사테",
+      "잉어킹구성훈"
+    ],
+    "loserTeam": "YB",
+    "loserPlayer": "하랑e",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      "Best도재욱",
+      "고속도로호준"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=10980&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 5,
+    "map": "라데온",
+    "tier": 6,
+    "winnerTeam": "JSA",
+    "winnerPlayer": "뚜비",
+    "winnerRace": "Terran",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "4s.사테",
+      "잉어킹구성훈"
+    ],
+    "loserTeam": "YB",
+    "loserPlayer": "예슬",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      "Best도재욱",
+      "고속도로호준"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=12876&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 6,
+    "map": "폴리포이드",
+    "tier": 5,
+    "winnerTeam": "YB",
+    "winnerPlayer": "태영",
+    "winnerRace": "Terran",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "A-염보성!!",
+      "Light이재호",
+      "SS_지동원",
+      "Scan유승곤"
+    ],
+    "loserTeam": "JSA",
+    "loserPlayer": "두디",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=14318&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 7,
+    "map": "데자뷰",
+    "tier": 5,
+    "winnerTeam": "JSA",
+    "winnerPlayer": "뿌리",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "YB",
+    "loserPlayer": "강덕구",
+    "loserRace": "Terran",
+    "loserBuild": "",
+    "loserCoaches": [
+      "A-염보성!!",
+      "Light이재호",
+      "SS_지동원",
+      "Scan유승곤"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=15430&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-09",
+    "round": "8강 YB VS JSA",
+    "setOrder": 8,
+    "map": "데자뷰",
+    "tier": 5,
+    "winnerTeam": "JSA",
+    "winnerPlayer": "공다츠",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+      "일짱곰♥",
+      "서문지훈",
+      "믹교수김수식"
+    ],
+    "loserTeam": "YB",
+    "loserPlayer": "무찌",
+    "loserRace": "Terran",
+    "loserBuild": "",
+    "loserCoaches": [
+      "A-염보성!!",
+      "Light이재호",
+      "SS_지동원",
+      "Scan유승곤"
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144671417?change_second=16514&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 1,
+    "map": "라데온",
+    "tier": 8,
+    "winnerTeam": "츠캄몬스터즈",
+    "winnerPlayer": "효짱",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "소림사",
+    "loserPlayer": "수니양",
+    "loserRace": "Terran",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=1211&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 2,
+    "map": "데자뷰",
+    "tier": 5,
+    "winnerTeam": "츠캄몬스터즈",
+    "winnerPlayer": "졈니",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "소림사",
+    "loserPlayer": "연애인",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=2633&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 3,
+    "map": "폴리포이드",
+    "tier": 7,
+    "winnerTeam": "소림사",
+    "winnerPlayer": "선정은",
+    "winnerRace": "Terran",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "츠캄몬스터즈",
+    "loserPlayer": "치리",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=4130&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 4,
+    "map": "도미네이터",
+    "tier": 2,
+    "winnerTeam": "소림사",
+    "winnerPlayer": "또봉순",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "츠캄몬스터즈",
+    "loserPlayer": "세나",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=4668&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 5,
+    "map": "라데온",
+    "tier": 3,
+    "winnerTeam": "츠캄몬스터즈",
+    "winnerPlayer": "디임",
+    "winnerRace": "Protoss",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "소림사",
+    "loserPlayer": "방실이",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=6157&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 6,
+    "map": "데자뷰",
+    "tier": 7,
+    "winnerTeam": "츠캄몬스터즈",
+    "winnerPlayer": "모리_",
+    "winnerRace": "Terran",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "소림사",
+    "loserPlayer": "진유성",
+    "loserRace": "Protoss",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=7418&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 7,
+    "map": "라데온",
+    "tier": 4,
+    "winnerTeam": "소림사",
+    "winnerPlayer": "쥬나",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "츠캄몬스터즈",
+    "loserPlayer": "앵지",
+    "loserRace": "Zerg",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=8054&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
+      }
+    ]
+  },
+  {
+    "tournament": "라네트배&숲배 대학리그",
+    "matchDate": "2024-12-08",
+    "round": "8강 츠캄몬스터즈 vs 소림사",
+    "setOrder": 8,
+    "map": "라데온",
+    "tier": 8,
+    "winnerTeam": "츠캄몬스터즈",
+    "winnerPlayer": "치리",
+    "winnerRace": "Zerg",
+    "winnerBuild": "",
+    "winnerCoaches": [
+    ],
+    "loserTeam": "소림사",
+    "loserPlayer": "선정은",
+    "loserRace": "Terran",
+    "loserBuild": "",
+    "loserCoaches": [
+      
+    ],
+    "replayLinks": [
+      {
+        "description": "주최측 해설",
+        "iframe": "<iframe id='soop_player_video' width='640' height='360' src='https://vod.sooplive.co.kr/player/144574699?change_second=9706&showChat=false&autoPlay=false&mutePlay=false' frameBorder='0' allowFullScreen allow='clipboard-write; web-share'></iframe>"
       }
     ]
   }
