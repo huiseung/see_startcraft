@@ -85,8 +85,10 @@ fetch('data.json')
 
     // Handle scroll event to load more data
     const handleScroll = () => {
-      const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
-
+      // const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      const scrollHeight = document.documentElement.scrollHeight;
+      const clientHeight = window.innerHeight;
       // Check if user has scrolled to the bottom of the page
       if (scrollTop + clientHeight >= scrollHeight - 5) {
         loadMoreMatches();
@@ -117,7 +119,7 @@ fetch('data.json')
       // Reset the state for rendering
       currentPage = 1;
       resultsContainer.innerHTML = ''; // Clear previous results
-      window.addEventListener('scroll', handleScroll); // Reattach the scroll listener
+      window.addEventListener('scroll', handleScroll, { passive: true }); // Reattach the scroll listener
       loadMoreMatches(); // Load the first batch of filtered data
     };
 
@@ -128,6 +130,8 @@ fetch('data.json')
     // Attach event listeners
     searchInput.addEventListener('input', filterMatches);
     raceFilter.addEventListener('change', filterMatches);
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('scroll', handleScroll, { passive: true });
   })
   .catch(err => console.error('Error loading data:', err));
+
+
