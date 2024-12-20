@@ -102,3 +102,33 @@ select#raceFilter {
   border-radius: 8px;
   border: 1px solid #d6d6d6; /* 옅은 회색 테두리 */
 }
+
+.show-more-container {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+/* Style the button */
+.show-more {
+  background-color: #007BFF; /* Bootstrap primary color */
+  color: #fff; /* White text */
+  border: none; /* Remove default border */
+  border-radius: 25px; /* Rounded corners */
+  padding: 10px 20px; /* Add padding */
+  font-size: 16px; /* Increase font size */
+  cursor: pointer; /* Add pointer on hover */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transitions */
+}
+
+/* Button hover effect */
+.show-more:hover {
+  background-color: #0056b3; /* Darker blue */
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+/* Button active effect */
+.show-more:active {
+  transform: scale(0.95); /* Slight shrink effect */
+}

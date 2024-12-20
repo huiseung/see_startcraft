@@ -52,13 +52,45 @@ fetch('data.json')
           </div>
           
           <h4>Replay Links:</h4>
-          ${match.replayLinks.map(link => `
-            <div>
-              <p><strong>${link.description}:</strong></p>
-              ${link.iframe}
+          <div class="replay-links">
+              ${match.replayLinks
+                  .slice(0, 3) // Display the first replay link
+                  .map(link => `
+                  <div>
+                    <p><strong>${link.description}:</strong></p>
+                    ${link.iframe}
+                  </div>
+                `).join('')}
+              ${match.replayLinks.length > 1
+                  ? `<div class="show-more-container">
+                      <button class="show-more">Show More</button>
+                    </div>
+                    <div class="hidden-links" style="display: none;">
+                      ${match.replayLinks.slice(3).map(link => `
+                        <div>
+                          <p><strong>${link.description}:</strong></p>
+                          ${link.iframe}
+                        </div>
+                      `).join('')}
+                    </div>`
+                  : ''
+                }
             </div>
-          `).join('')}
-        `;
+          `;
+
+          const showMoreButton = matchDiv.querySelector('.show-more');
+          if (showMoreButton) {
+            showMoreButton.addEventListener('click', () => {
+              const hiddenLinks = matchDiv.querySelector('.hidden-links');
+              if (hiddenLinks.style.display === 'none') {
+                hiddenLinks.style.display = 'block';
+                showMoreButton.textContent = 'Show Less';
+              } else {
+                hiddenLinks.style.display = 'none';
+                showMoreButton.textContent = 'Show More';
+              }
+            });
+          }
         resultsContainer.appendChild(matchDiv);
       });
     };
