@@ -61,7 +61,7 @@ fetch('data.json')
                     ${link.iframe}
                   </div>
                 `).join('')}
-              ${match.replayLinks.length > 1
+              ${match.replayLinks.length > 3
                   ? `<div class="show-more-container">
                       <button class="show-more">Show More</button>
                     </div>
